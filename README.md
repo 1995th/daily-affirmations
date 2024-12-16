@@ -10,6 +10,9 @@ Powered by AI: Integrates Google’s Gemini API for text generation.
 Frontend: HTML, CSS (Glassmorphism), JavaScript (ES Modules)
 AI Integration: Google Gemini API via @google/generative-ai library
 
+# Demo
+<img width="586" alt="web-app-gemini" src="https://github.com/user-attachments/assets/80846620-7d7f-4498-a400-acf511e752d8" />
+
 # Installation
 Prerequisites
 Node.js installed on your system
