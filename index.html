@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily Affirmations</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="glass-card">
+      <h1>Daily Affirmations</h1>
+      <p class="description">Get your personalized dose of positivity.</p>
+      <label for="mood">Select your mood:</label>
+      <select id="mood" class="glass-select">
+        <option value="happy">Happy</option>
+        <option value="anxious">Anxious</option>
+        <option value="motivated">Motivated</option>
+        <option value="sad">Sad</option>
+      </select>
+      <button id="generateBtn" class="glass-button">Generate Affirmation</button>
+      <p id="affirmation" class="glass-output"></p>
+    </div>
+  </div>
+  <script type="module" src="main.js"></script>
+</body>
+</html>
