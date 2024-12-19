@@ -14,7 +14,7 @@ AI Integration: Google Gemini API via @google/generative-ai library
 <img width="486" alt="web-app-gemini" src="https://github.com/user-attachments/assets/80846620-7d7f-4498-a400-acf511e752d8" />
 
 # Installation
-Prerequisites
+Prerequisites:
 Node.js installed on your system
 A valid API key for the Google Gemini API
 
